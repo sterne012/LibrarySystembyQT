@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>illust.jpg</file>
+        <file>background.png</file>
+        <file>fangddajing.png</file>
+        <file>upload.png</file>
+    </qresource>
+</RCC>
